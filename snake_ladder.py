@@ -1,6 +1,4 @@
-# This game is made by MRayan Asim
-# Packages needed:
-# pip install pillow
+
 import random
 from tkinter import *
 from PIL import Image, ImageTk
